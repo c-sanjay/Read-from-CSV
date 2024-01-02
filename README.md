@@ -31,5 +31,5 @@ print("Number of columns:",len(df.axes[1]))
 ## OUTPUT:
 ![](./OUTPUT.png)
 ## RESULT:
-Thus the program is written to copy the contents from one file to another file.
+Thus the program is written for reading content from a CSV file.
 
